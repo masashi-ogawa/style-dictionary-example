@@ -4,20 +4,27 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 14 Jul 2022 10:01:50 GMT
+// Generated on Thu, 14 Jul 2022 10:05:43 GMT
 
 
 import UIKit
 
 internal struct StyleDictionaryStruct {
-    internal static let colorBaseGrayDark = UIColor(red: 0.067, green: 0.067, blue: 0.067, alpha: 1)
-    internal static let colorBaseGrayLight = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
-    internal static let colorBaseGrayMedium = UIColor(red: 0.600, green: 0.600, blue: 0.600, alpha: 1)
-    internal static let colorBaseGreen = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
-    internal static let colorBaseRed = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
-    internal static let colorFontBase = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
-    internal static let colorFontSecondary = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
-    internal static let colorFontTertiary = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
+    internal static let colorBaseBlue300 = UIColor(red: 0.000, green: 0.592, blue: 0.996, alpha: 1)
+    internal static let colorBaseBlue50 = UIColor(red: 0.890, green: 0.949, blue: 0.996, alpha: 1)
+    internal static let colorBaseBlue500 = UIColor(red: 0.000, green: 0.396, blue: 0.792, alpha: 1)
+    internal static let colorBaseBlue700 = UIColor(red: 0.000, green: 0.275, blue: 0.671, alpha: 1)
+    internal static let colorBaseGray300 = UIColor(red: 0.494, green: 0.549, blue: 0.604, alpha: 1)
+    internal static let colorBaseGray50 = UIColor(red: 0.957, green: 0.961, blue: 0.965, alpha: 1)
+    internal static let colorBaseGray500 = UIColor(red: 0.322, green: 0.349, blue: 0.376, alpha: 1)
+    internal static let colorBaseGray700 = UIColor(red: 0.000, green: 0.075, blue: 0.098, alpha: 1)
+    internal static let colorBaseYellow300 = UIColor(red: 0.996, green: 0.882, blue: 0.510, alpha: 1)
+    internal static let colorBaseYellow50 = UIColor(red: 1.000, green: 0.973, blue: 0.882, alpha: 1)
+    internal static let colorBaseYellow500 = UIColor(red: 0.992, green: 0.769, blue: 0.000, alpha: 1)
+    internal static let colorBaseYellow700 = UIColor(red: 0.996, green: 0.565, blue: 0.000, alpha: 1)
+    internal static let colorFontBase = UIColor(red: 0.000, green: 0.592, blue: 0.996, alpha: 1)
+    internal static let colorFontSecondary = UIColor(red: 0.996, green: 0.882, blue: 0.510, alpha: 1)
+    internal static let colorFontTertiary = UIColor(red: 0.494, green: 0.549, blue: 0.604, alpha: 1)
     internal static let sizeFontBase = CGFloat(16.00) /* the base size of the font */
     internal static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */
     internal static let sizeFontMedium = CGFloat(16.00) /* the medium size of the font */

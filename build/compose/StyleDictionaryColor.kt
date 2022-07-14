@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Thu, 14 Jul 2022 10:01:50 GMT
+// Generated on Thu, 14 Jul 2022 10:05:43 GMT
 
 
 
@@ -12,12 +12,19 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.*
 
 object StyleDictionaryColor {
-  val colorBaseGrayDark = Color(0xff111111)
-  val colorBaseGrayLight = Color(0xffcccccc)
-  val colorBaseGrayMedium = Color(0xff999999)
-  val colorBaseGreen = Color(0xff00ff00)
-  val colorBaseRed = Color(0xffff0000)
-  val colorFontBase = Color(0xffff0000)
-  val colorFontSecondary = Color(0xff00ff00)
-  val colorFontTertiary = Color(0xffcccccc)
+  val colorBaseBlue300 = Color(0xff0097fe)
+  val colorBaseBlue50 = Color(0xffe3f2fe)
+  val colorBaseBlue500 = Color(0xff0065ca)
+  val colorBaseBlue700 = Color(0xff0046ab)
+  val colorBaseGray300 = Color(0xff7e8c9a)
+  val colorBaseGray50 = Color(0xfff4f5f6)
+  val colorBaseGray500 = Color(0xff525960)
+  val colorBaseGray700 = Color(0xff001319)
+  val colorBaseYellow300 = Color(0xfffee182)
+  val colorBaseYellow50 = Color(0xfffff8e1)
+  val colorBaseYellow500 = Color(0xfffdc400)
+  val colorBaseYellow700 = Color(0xfffe9000)
+  val colorFontBase = Color(0xff0097fe)
+  val colorFontSecondary = Color(0xfffee182)
+  val colorFontTertiary = Color(0xff7e8c9a)
 }
